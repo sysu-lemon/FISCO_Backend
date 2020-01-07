@@ -1,0 +1,14 @@
+.DS_Store
+/logs
+gradlew
+gradlew.bat
+
+### Intellij IDEA ###
+/.idea
+*.iml
+*.iws
+*.ipr
+
+### Gradle ###
+/.gradle
+/build
