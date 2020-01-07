@@ -1,7 +1,5 @@
 .DS_Store
 /logs
-gradlew
-gradlew.bat
 
 ### Intellij IDEA ###
 /.idea
